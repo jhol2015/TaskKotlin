@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682232110620",
+    "project_id": "taskkotlin-f887a",
+    "storage_bucket": "taskkotlin-f887a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682232110620:android:91645b148f2c2a581009d9",
+        "android_client_info": {
+          "package_name": "com.jholdev.taskkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682232110620-ma75jpq6qndvbh7oqg41ajgu11rf7scf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jholdev.taskkotlin",
+            "certificate_hash": "2ca27b7d3815615a5fff27a789ce3c7c6c82d1f6"
+          }
+        },
+        {
+          "client_id": "682232110620-v90sevapn2tbfjv7jetqglkimt6gpd75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcBGfELNyghuNQ6sWiVdBdlYGLNbzgxdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682232110620-v90sevapn2tbfjv7jetqglkimt6gpd75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
